@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+require './config/init.rb'
+
+unless ARGV.size > 0
+  puts 'Missing argument. Using ./hotel-matcher HOTEL_NAME'
+  exit
+end
+
+result = HotelMatcher::Bulk.get_hotel_urls(ARGV[0])
+result.each do |key, value|
+  puts "#{key}: #{value}"
+end

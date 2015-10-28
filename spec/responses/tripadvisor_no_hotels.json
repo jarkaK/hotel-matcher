@@ -1,0 +1,28 @@
+{
+  "normalized":{
+    "query":"doubletree hilton amsterdam"
+  },
+  "query":{
+    "blenderPages":"true",
+    "types":"geo,hotel,eat,attr,vr,air,theme_park",
+    "neighborhood_geos":"true",
+    "uiOrigin":"MASTHEAD",
+    "nearPages":"true",
+    "injectNewLocation":"true",
+    "max":"12",
+    "query":"DoubleTree Hilton Amsterdam",
+    "injectNeighborhoods":"true",
+    "flightsToPages":"true",
+    "interleaved":"true",
+    "defaultListInsertionType":"hotel",
+    "link_type":"geo",
+    "allowPageInsertionOnGeoMatch":"false",
+    "smartDealPages":"true",
+    "vpPages":"true",
+    "startTime":"1445933766486",
+    "details":"true",
+    "geoPages":"true"
+  },
+  "results":[
+  ]
+}

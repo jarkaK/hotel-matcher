@@ -1,0 +1,18 @@
+{
+   "identifier":"id",
+   "query":"doubletree hilton amsterdam",
+   "items":[
+      {
+         "id":"313225",
+         "typ":"hid",
+         "label":"DoubleTree by Hilton Hotel Amsterdam Centraal Station / Amsterdam (Hotel)",
+         "name":"DoubleTree by Hilton Hotel Amsterdam Centraal Station / Amsterdam (Hotel)"
+      },
+      {
+         "id":"1370357",
+         "typ":"hid",
+         "label":"DoubleTree by Hilton Hotel Amsterdam - NDSM Wharf / Amsterdam (Hotel)",
+         "name":"DoubleTree by Hilton Hotel Amsterdam - NDSM Wharf / Amsterdam (Hotel)"
+      }
+   ]
+}
