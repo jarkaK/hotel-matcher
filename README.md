@@ -5,8 +5,6 @@
 
 ## Setup
 
-Install rvm
-
 Run bundle
 ```bash
 bundle install
